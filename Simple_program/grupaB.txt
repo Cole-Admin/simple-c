@@ -1,0 +1,51 @@
+Mona Lisa
+Renesansa
+1503
+860000000
+77.00
+Zvezdana noc
+Postimpresionizam
+1889
+100000000
+74.00
+Devojka sa bisernom mindjusom
+Barok
+1665
+70000000
+45.00
+Vrisak
+Ekspresionizam
+1893
+120000000
+91.00
+Poslednja vecera
+Renesansa
+1498
+450000000
+460.00
+Guernica
+Kubizam
+1937
+200000000
+349.00
+Poljubac
+Secesija
+1908
+135000000
+180.00
+Suncokreti
+Postimpresionizam
+1888
+90000000
+95.00
+Americka gotika
+Realizam
+1930
+60000000
+78.00
+Radjanje Venere
+Renesansa
+1486
+300000000
+278.00
+
